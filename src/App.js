@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ks from './ks.jpeg';
 
